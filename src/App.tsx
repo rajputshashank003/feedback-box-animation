@@ -1,4 +1,4 @@
-import FeedbackForm from "./components/FeedbackForm"
+import FeedbackForm from 'feedback-animated-box';
 
 const App = () => {
     const handleSubmit = (feedback: string) => { 
@@ -14,4 +14,4 @@ const App = () => {
     )
 }
 
-export default App
+export default App;
