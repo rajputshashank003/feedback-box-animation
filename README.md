@@ -23,7 +23,7 @@ npm install feedback-animated-box
 
 - Component - App.tsx
 ```bash
-import FeedbackForm from "./components/FeedbackForm"
+import FeedbackForm from "feedback-animted-box";
 
 const App = () => {
     const handleSubmit = (feedback: string) => { 
